@@ -1,2 +1,3 @@
 # persondemo
-hello world!
+* hello world!
+* GitHub学习之旅正式开始
