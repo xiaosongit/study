@@ -1,4 +1,1 @@
-# persondemo
-* hello world!
-* 
-* 
+hello！
